@@ -1,0 +1,22 @@
+.top-container{
+  background-color: #F0EBE3;
+  border: 10px black solid;
+  padding: 20px;
+  width: 200px;
+  height: 200px;
+}
+.middle-container{
+  background-color: yellow;
+  border: 20px solid;
+  width: 200px;
+  height: 200px;
+  margin-left: 260px;
+}
+
+.bottom-container{
+  background-color: purple;
+  border: 10px black solid;
+  width: 200px;
+  height: 200px;
+  margin-left: 500px;
+}
